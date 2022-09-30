@@ -14,7 +14,8 @@ title: George Polykratis
 description: 
 
 # Your name to show in the footer
-#author: George Polykratis
+author:
+  name: © George Polykratis - All rights reserved
 
 ##############################################
 # --- List of links in the navigation bar --- #
@@ -67,7 +68,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: https://www.instagram.com/giopolykra/
+  instagram: giopolykra
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -96,6 +97,14 @@ share-links-active:
   facebook: false
   linkedin: false
   vk: false
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -252,7 +261,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Athens"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
