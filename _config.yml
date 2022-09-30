@@ -24,8 +24,8 @@ author:
 navbar-links:
   About Me: "aboutme"
   CV:
-    -Education:"education"
-    -Skills:"skills"
+  #  -Education:"education"
+  #  -Skills:"skills"
   #Projects: 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
