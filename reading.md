@@ -6,3 +6,182 @@ title: Reading
 What Once Was Considered  A Real Education ...
 
 <div style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px;"><h3 style=""><a href="https://www.goodreads.com/user/show/98951412-george-polykratis" style="text-decoration: none;color:#aaa;font-family:georgia,serif;font-style:italic;" rel="nofollow">Random Quotes I like</a></h3><br/><div id="gr_quote_body"></div><script src="https://www.goodreads.com/quotes/widget/98951412-george-polykratis?v=2" type="text/javascript"></script><div style="text-align: right;"><a href="https://www.goodreads.com/quotes" style="color: #382110; text-decoration: none; font-size: 10px;" rel="nofollow">Goodreads Quotes</a></div></div>
+
+## Life Changing Books
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1664618883">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+            <h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/98951412-george-polykratis?shelf=life-changing&utm_medium=api&utm_source=grid_widget">George's life-changing book montage</a>
+    </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="The Brothers Karamazov" rel="nofollow" href="https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov"><img alt="The Brothers Karamazov" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126l/4934._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Σίγουρα θα αστειεύεστε, κύριε Φάινμαν: Οι περιπέτειες ενός σπάνιου χαρακτήρα" rel="nofollow" href="https://www.goodreads.com/book/show/26156824"><img alt="Σίγουρα θα αστειεύεστε, κύριε Φάινμαν: Οι περιπέτειες ενός σπάνιου χαρακτήρα" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440418993l/26156824._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Φίλοι" rel="nofollow" href="https://www.goodreads.com/book/show/36680239"><img alt="Φίλοι" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511900898l/36680239._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Τα εις εαυτόν" rel="nofollow" href="https://www.goodreads.com/book/show/16106598"><img alt="Τα εις εαυτόν" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600854971l/16106598._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="One, No One and One Hundred Thousand" rel="nofollow" href="https://www.goodreads.com/book/show/12117.One_No_One_and_One_Hundred_Thousand"><img alt="One, No One and One Hundred Thousand" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388199785l/12117._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Πατέρες και γιοι" rel="nofollow" href="https://www.goodreads.com/book/show/28241088"><img alt="Πατέρες και γιοι" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648496155l/28241088._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Complete Essays" rel="nofollow" href="https://www.goodreads.com/book/show/30735.The_Complete_Essays"><img alt="The Complete Essays" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657542435l/30735._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Denial of Death" rel="nofollow" href="https://www.goodreads.com/book/show/52393457-the-denial-of-death"><img alt="The Denial of Death" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584266014l/52393457._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Stoner" rel="nofollow" href="https://www.goodreads.com/book/show/166997.Stoner"><img alt="Stoner" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320600716l/166997._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Anna Karenina" rel="nofollow" href="https://www.goodreads.com/book/show/155.Anna_Karenina"><img alt="Anna Karenina" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288758122l/155._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title=""What Do You Care What Other People Think?": Further Adventures of a Curious Character" rel="nofollow" href="https://www.goodreads.com/book/show/35167718-what-do-you-care-what-other-people-think"><img alt=""What Do You Care What Other People Think?": Further Adventures of a Curious Character" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516068365l/35167718._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman" rel="nofollow" href="https://www.goodreads.com/book/show/10260.The_Pleasure_of_Finding_Things_Out"><img alt="The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924005l/10260._SY75_.jpg" /></a></div>
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/98951412-george-polykratis">George Polykratis's favorite books »</a>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with George, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/98951412.George's%20life-changing%20book%20montage?cover_size=small&hide_link=&hide_title=&num_books=20&order=a&shelf=life-changing&sort=date_added&widget_id=1664618883" type="text/javascript" charset="utf-8"></script>
+
+## Books I read
+<!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
+      <style type="text/css" media="screen">
+  .gr_custom_container_ {
+    /* customize your Goodreads widget container here*/
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px 5px 10px 5px;
+    background-color: #FFF;
+    color: #000;
+    width: 300px
+  }
+  .gr_custom_header_ {
+    /* customize your Goodreads header here*/
+    border-bottom: 1px solid gray;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 120%
+  }
+  .gr_custom_each_container_ {
+    /* customize each individual book container here */
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #aaa;
+  }
+  .gr_custom_book_container_ {
+    /* customize your book covers here */
+    overflow: hidden;
+    height: 60px;
+      float: left;
+      margin-right: 4px;
+      width: 39px;
+  }
+  .gr_custom_author_ {
+    /* customize your author names here */
+    font-size: 10px;
+  }
+  .gr_custom_tags_ {
+    /* customize your tags here */
+    font-size: 10px;
+    color: gray;
+  }
+  .gr_custom_rating_ {
+    /* customize your rating stars here */
+    float: right;
+  }
+</style>
+
+      <div id="gr_custom_widget_">
+          <div class="gr_custom_container_">
+    <h2 class="gr_custom_header_">
+    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/98951412-george-polykratis?shelf=read&amp;utm_medium=api&amp;utm_source=custom_widget">George&#39;s books</a>
+    </h2>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="How to Stop Worrying and Start Living" rel="nofollow" href="https://www.goodreads.com/review/show/4975378901?utm_medium=api&amp;utm_source=custom_widget"><img alt="How to Stop Worrying and Start Living" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337770163l/1211090._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="really liked it"><img alt="really liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/4975378901?utm_medium=api&amp;utm_source=custom_widget">How to Stop Worrying and Start Living</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/3317.Dale_Carnegie">Dale Carnegie</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="Μια εξομολόγηση" rel="nofollow" href="https://www.goodreads.com/review/show/4918086284?utm_medium=api&amp;utm_source=custom_widget"><img alt="Μια εξομολόγηση" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420133583l/18651679._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="really liked it"><img alt="really liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/4918086284?utm_medium=api&amp;utm_source=custom_widget">Μια εξομολόγηση</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/128382.Leo_Tolstoy">Leo Tolstoy</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="Η αβάσταχτη ελαφρότητα του είναι" rel="nofollow" href="https://www.goodreads.com/review/show/4703780949?utm_medium=api&amp;utm_source=custom_widget"><img alt="Η αβάσταχτη ελαφρότητα του είναι" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269032983l/7885287._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/4703780949?utm_medium=api&amp;utm_source=custom_widget">Η αβάσταχτη ελαφρότητα του είναι</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/6343.Milan_Kundera">Milan Kundera</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="Άμλετ και Δον Κιχώτης" rel="nofollow" href="https://www.goodreads.com/review/show/4687299792?utm_medium=api&amp;utm_source=custom_widget"><img alt="Άμλετ και Δον Κιχώτης" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469794454l/31289148._SX50_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="really liked it"><img alt="really liked it" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/4687299792?utm_medium=api&amp;utm_source=custom_widget">Άμλετ και Δον Κιχώτης</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/410680.Ivan_Turgenev">Ivan Turgenev</a>
+          </div>
+      </div>
+      <div class="gr_custom_each_container_">
+          <div class="gr_custom_book_container_">
+            <a title="Απολογία Σωκράτους" rel="nofollow" href="https://www.goodreads.com/review/show/4622553545?utm_medium=api&amp;utm_source=custom_widget"><img alt="Απολογία Σωκράτους" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408025247l/16042617._SY75_.jpg" /></a>
+          </div>
+          <div class="gr_custom_rating_">
+            <span class=" staticStars notranslate" title="it was amazing"><img alt="it was amazing" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_active.png" /></span>
+          </div>
+          <div class="gr_custom_title_">
+            <a rel="nofollow" href="https://www.goodreads.com/review/show/4622553545?utm_medium=api&amp;utm_source=custom_widget">Απολογία Σωκράτους</a>
+          </div>
+          <div class="gr_custom_author_">
+            by <a rel="nofollow" href="https://www.goodreads.com/author/show/879.Plato">Plato</a>
+          </div>
+      </div>
+  <br style="clear: both"/>
+  <center>
+    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
+  </center>
+  <noscript>
+    Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with George, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
+  </noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/custom_widget/98951412.George's%20bookshelf:%20read?cover_position=&cover_size=&num_books=5&order=&shelf=&sort=&widget_bg_transparent=" type="text/javascript" charset="utf-8"></script>
