@@ -39,6 +39,7 @@ navbar-links:
   CV:
     - Education: "education"
     - Skills: "skills"
+  Reading: "reading"
   #Projects: 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
