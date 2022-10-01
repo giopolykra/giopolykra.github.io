@@ -3,8 +3,8 @@ layout: page
 title: About me
 subtitle: In love with life
 ---
-I worn in Cyprus but grew up in Athens. I have Italian roots from Florence.
-I love reading playing the harmonica and learning new skills.
+I was born in Cyprus but grew up in Athens. I have Italian roots from Florence.
+I love reading books, cooking, playing the harmonica and learning new skills.
 
 ## Passions
 
