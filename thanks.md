@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thanks for your message!
-bigimg: /img/thanks.jpg
+bigimg: /img/Turner-Confluent-de-la-Severn-et-de-la-Wye-Louvre.jpg
 subtitle: I will be back to you as soon as possible!
 ---
 
