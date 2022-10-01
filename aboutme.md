@@ -1,19 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: In love with life
 ---
-
-My name is George Polykratis
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-Born in Cyprus but grew up in Athens. I have Italian roots from Florence.
+I worn in Cyprus but grew up in Athens. I have Italian roots from Florence.
+I love reading playing the harmonica and learning new skills.
 
 ## Passions
 
@@ -30,7 +21,7 @@ I am also passionate about freediving and in the process of getting my AIDA 3 ce
 ### Sailing
 I starter an ISSA Offshore Skipper course with the sole intention of fighting my sea sickness,
 
-## Sports I Want to Start in the Future
+## Things I Want to Do in the Future
 
 ### Paragliding
 The cheapest way to get your feet of the gound. This sport has aged much better than hang gliding especially since the invention of the speed flying with miniwings. I definitely want to start this sport. 
@@ -41,3 +32,5 @@ Skydiving is in the family. I remember going with my father to the Megara dropzo
 ### Airplane Pilot licence
 Ever since I id some demo flights when I was 16 I am thinking of the time when I will be able to fly a plane on my own. Getting the  LAPL and then the PPL licence is on the to-do list!
 
+### Camper traveling while searching for climbing spots
+Because why not?
