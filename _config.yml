@@ -28,11 +28,7 @@ baseurl: ""
 
 # Name of website
 title: George Polykratis
-description: 
-
-# Your name to show in the footer
-author:
-  name: © George Polykratis - All rights reserved
+description: A little bit of this, a little bit of that
 
 ##############################################
 # --- List of links in the navigation bar --- #
@@ -68,7 +64,10 @@ round-avatar: true
 #####################################
 # --- Footer social media links --- #
 #####################################
-
+# Your name to show in the footer
+author:
+  name: © George Polykratis - All rights reserved
+  
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
