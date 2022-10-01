@@ -19,6 +19,6 @@ subtitle: Academic Achievements
 
 ## September 2012 – March 2017  
 #### National & Kapodistrian University of Athens  
-**Bachelor’s Degree** in Nuclear \& Particle Physics.  
+**Bachelor’s Degree** in Nuclear & Particle Physics.  
 **Supervisor**: Prof. V. Spanos, Prof. A. Lahanas.  
 **Topics**: Primordial Gravitational Waves from cosmological Inflation and CMB.  
