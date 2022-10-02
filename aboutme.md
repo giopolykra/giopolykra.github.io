@@ -16,10 +16,18 @@ Though not quite ready yet I want to run ultramarathons in the future.
 I discovered scuba diving while in Cyprus and within a year as my ambitions and love for the sport grew, I begun diving with Global Underwater Explorers. I plan to transition to technical diving and participate in exploration projects (caves and wrecks) and ghost-net retrieval projects with the Ghost Diving team in the future.
 
 #### Freediving
-I am also passionate about freediving and in the process of getting my AIDA 3 certification, but due to recent setbacks becasue of surgeries this dicipline will have to wait a bit.
+I am also passionate about freediving and in the process of getting my AIDA 3 certification, but due to recent setbacks due to surgeries this dicipline will have to wait a bit.
 
 #### Sailing
 I starter an ISSA Offshore Skipper course with the sole intention of fighting my sea sickness.
+
+## Hobbies I have tried and want to do more regularly
+
+#### Fencing
+I was a bit prejudiced about this, because I preffer no but after I tried 
+
+#### Climbing
+I have only done bouldering but I really want to climb outdoor and one day maybe do some multipitch routes.
 
 ## Things I Want to Do in the Future
 
