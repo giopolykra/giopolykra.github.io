@@ -13,7 +13,8 @@ I enjoy this solitary meditative activity and I know I can always fall back to i
 Though not quite ready yet I want to run ultramarathons in the future.
 
 #### Scuba diving
-I discovered scuba diving while in Cyprus and within a year as my ambitions and love for the sport grew, I begun diving with Global Underwater Explorers. I plan to transition to technical diving and participate in exploration projects (caves and wrecks) and ghost-net retrieval projects with the Ghost Diving team in the future.
+I discovered scuba diving while in Cyprus and within a year as my ambitions and love for the sport grew, I begun diving with Global Underwater Explorers. 
+I plan to get the DPV and drysuit certification this year and  slowly transition into technical diving  in the future, With the end goal to participate in exploration projects (caves and wrecks) and ghost-net retrieval projects with the Ghost Diving team.
 
 #### Freediving
 I am also passionate about freediving and in the process of getting my AIDA 3 certification, but due to recent setbacks due to surgeries this dicipline will have to wait a bit.
@@ -30,6 +31,9 @@ I was a bit prejudiced about this, because I preffer no but after I tried
 I have only done bouldering but I really want to climb outdoor and one day maybe do some multipitch routes.
 
 ## Things I Want to Do in the Future
+
+#### Rebreather Diving
+The silent, bubble free way of diving. 
 
 #### Paragliding
 The cheapest way to get your feet of the gound. This sport has aged much better than hang gliding especially since the invention of the speed flying with miniwings. I definitely want to start this sport. 
