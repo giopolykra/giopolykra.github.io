@@ -20,7 +20,7 @@ I plan to get the DPV and drysuit certification this year and  slowly transition
 I am also passionate about freediving and in the process of getting my AIDA 3 certification, but due to recent setbacks due to surgeries this dicipline will have to wait a bit.
 
 #### Sailing
-I starter an ISSA Offshore Skipper course with the sole intention of fighting my sea sickness.
+I starter the ISSA Offshore Skipper course with the sole intention of fighting my sea sickness.
 
 ## Hobbies I have tried and want to do more regularly
 
