@@ -32,20 +32,20 @@ I have only done bouldering but I really want to climb outdoor and one day maybe
 
 ## Things I Want to Do in the Future
 
-#### Rebreather Diving
+#### Rebreather Diving ($$$$)
 The silent, bubble free way of diving. Would it be he KISS, JJ in the GUE configuration, CM-Optima or FATHOM? 
 
-#### Caving
+#### Caving ($)
 Natural way to expand your skill arsenal if you want to do cave diving. Not only the sunken part of the caves are fun, dry cave sare as beautifull and worth exploring. I want to have the training for the SRT techniques involved. 
 
-#### Paragliding
+#### Paragliding ($$)
 The cheapest way to get your feet of the gound. This sport has aged much better than hang gliding especially since the invention of the speed flying with miniwings. I definitely want to start this sport. 
 
-#### Skydiving 
+#### Skydiving ($$$)
 Skydiving is in the family. I remember going with my father to the Megara dropzone in Athens where he did his AFF course. The real fun starts after the 200 jumps from what I understand ...
 
-#### Airplane Pilot licence
-Ever since I id some demo flights when I was 16 I am thinking of the time when I will be able to fly a plane on my own. Getting the  LAPL and then the PPL licence is on the to-do list!
+#### Airplane Pilot licence ($$$$)
+Ever since I had some demo flights when I was 16 I am thinking of the time when I will be able to fly a plane on my own. Getting the  LAPL and then the PPL licence is on the to-do list!
 
 #### Camper traveling while searching for climbing spots
 Because why not?
