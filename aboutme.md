@@ -42,7 +42,7 @@ Natural way to expand your skill arsenal if you want to do cave diving. Not only
 The cheapest way to get your feet of the gound. This sport has aged much better than hang gliding especially since the invention of the speed flying with miniwings. I definitely want to start this sport. 
 
 #### Skydiving 
-Skydiving is in the family. I remember going with my father to the Megara dropzone in Athens where he did his AFF course. He stopped after 50 jumps thought. I plan to continue the tradition and move to 200+ jumps because then is when the real fun starts ...
+Skydiving is in the family. I remember going with my father to the Megara dropzone in Athens where he did his AFF course. The real fun starts after the 200 jumps from what I understand ...
 
 #### Airplane Pilot licence
 Ever since I id some demo flights when I was 16 I am thinking of the time when I will be able to fly a plane on my own. Getting the  LAPL and then the PPL licence is on the to-do list!
