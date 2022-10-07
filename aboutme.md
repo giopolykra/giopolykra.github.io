@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: In love with life
+subtitle: In love with life and leveling up
 ---
 I was born in Cyprus but grew up in Athens. I have Italian roots from Florence.
 I love reading books, cooking, playing the harmonica and learning new skills.
