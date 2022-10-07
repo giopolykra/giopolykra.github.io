@@ -33,7 +33,7 @@ I have only done bouldering but I really want to climb outdoor and one day maybe
 ## Things I Want to Do in the Future
 
 #### Rebreather Diving ($$$$$)
-The silent, bubble free way of diving. Would it be he KISS, JJ in the GUE configuration, CM-Optima or FATHOM? 
+The silent, bubble free way of diving. Would it be he KISS-sidewinder, JJ in the GUE configuration, CM-Optima or FATHOM? 
 
 #### Caving ($)
 Natural way to expand your skill arsenal if you want to do cave diving. Not only the sunken part of the caves are fun, dry cave sare as beautifull and worth exploring. I want to have the training for the SRT techniques involved. 
