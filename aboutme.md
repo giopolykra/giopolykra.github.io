@@ -17,7 +17,7 @@ I discovered scuba diving while in Cyprus and within a year as my ambitions and 
 I plan to get the DPV and drysuit certification this year and  slowly transition into technical diving  in the future, With the end goal to participate in exploration projects (caves and wrecks) and ghost-net retrieval projects with the Ghost Diving team.
 
 #### Freediving
-I am also passionate about freediving and in the process of getting my AIDA 3 certification, but due to recent setbacks due to surgeries this dicipline will have to wait a bit.
+I am also passionate about freediving and in the process of getting my AIDA 3 certification, but due to recent setbacks I had with surgeries this dicipline will have to wait maybe a few months.
 
 #### Sailing
 I starter the ISSA Offshore Skipper course with the sole intention of fighting my sea sickness.
@@ -34,6 +34,9 @@ I have only done bouldering but I really want to climb outdoor and one day maybe
 
 #### Rebreather Diving
 The silent, bubble free way of diving. 
+
+#### Caving
+Natural way to expand your skill arsenal if you want to do cave diving. Not only the sunken part of the caves are fun, dry cave sare as beautifull and worth exploring. I want to have the training for the SRT techniques involved. 
 
 #### Paragliding
 The cheapest way to get your feet of the gound. This sport has aged much better than hang gliding especially since the invention of the speed flying with miniwings. I definitely want to start this sport. 
