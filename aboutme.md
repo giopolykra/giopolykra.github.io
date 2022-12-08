@@ -4,7 +4,7 @@ title: About me
 subtitle: In love with life and leveling up
 ---
 I was born in Cyprus but grew up in Athens. I have Italian roots from Florence.
-I love reading books, cooking, playing the harmonica and learning new skills.
+I love programming, reading books, cooking, playing the harmonica and learning new skills.
 
 ## Passions
 
@@ -27,10 +27,10 @@ I started the ISSA Offshore Skipper course with the sole intention of fighting m
 #### Fencing
 I was a bit prejudiced about this, because I preffer no but after I tried 
 
-#### Climbing
-I have only done bouldering but I really want to climb outdoor and one day maybe do some multipitch routes.
-
 ## Things I Want to Do in the Future
+
+#### Climbing
+I have only done bouldering so far, but I intend to climb outdoors and one day maybe do some multipitch routes.
 
 #### Rebreather Diving (\$\$\$\$\$)
 The silent, bubble free way of diving. Would it be he KISS-sidewinder, JJ in the GUE configuration, CM-Optima or FATHOM? 
