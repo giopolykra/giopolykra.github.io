@@ -8,7 +8,7 @@ What Once Was Considered  A Real Education ...
 <div style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px;"><h3 style=""><a href="https://www.goodreads.com/user/show/98951412-george-polykratis" style="text-decoration: none;color:#aaa;font-family:georgia,serif;font-style:italic;" rel="nofollow">Random Quotes I like</a></h3><br/><div id="gr_quote_body"></div><script src="https://www.goodreads.com/quotes/widget/98951412-george-polykratis?v=2" type="text/javascript"></script><div style="text-align: right;"><a href="https://www.goodreads.com/quotes" style="color: #382110; text-decoration: none; font-size: 10px;" rel="nofollow">Goodreads Quotes</a></div></div>
 
 ## Life Changing Books
-      <style type="text/css" media="screen">
+<!--       <style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
         }
@@ -26,7 +26,7 @@ What Once Was Considered  A Real Education ...
         <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
             <h2>
       <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/98951412-george-polykratis?shelf=life-changing&utm_medium=api&utm_source=grid_widget">George's life-changing book montage</a>
-    </h2>
+    </h2> -->
   <div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="The Brothers Karamazov" rel="nofollow" href="https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov"><img alt="The Brothers Karamazov" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126l/4934._SX50_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Σίγουρα θα αστειεύεστε, κύριε Φάινμαν: Οι περιπέτειες ενός σπάνιου χαρακτήρα" rel="nofollow" href="https://www.goodreads.com/book/show/26156824"><img alt="Σίγουρα θα αστειεύεστε, κύριε Φάινμαν: Οι περιπέτειες ενός σπάνιου χαρακτήρα" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440418993l/26156824._SX50_.jpg" /></a></div>
