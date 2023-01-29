@@ -772,3 +772,15 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.gr_grid_book_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.gr_grid_book_container > div {
+  width: 30%;
+  height: 300px;
+  margin-bottom: 20px;
+}
