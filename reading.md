@@ -6,6 +6,7 @@ title: Reading
   div {
     display: inline-block;
     margin: 10px;
+    text-align: center;
   }
 </style>
 
