@@ -2,13 +2,6 @@
 layout: page
 title: Reading
 ---
-<style>
-  div {
-    display: inline-block;
-    margin: 10px;
-    text-align: center;
-  }
-</style>
 
 What Once Was Considered  A Real Education ...
 
