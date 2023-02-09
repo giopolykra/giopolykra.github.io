@@ -35,12 +35,14 @@ description: A little bit of this, a little bit of that
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Curriculum vitae:
     - Education: "education"
     - Skills: "skills"
+  Hobbies: "aboutme"
   Reading: "reading"
-  #Projects: 
+  Projects: 
+    - Deco Planner: 
+    - Quantum Tic-Tac-Toe: 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
