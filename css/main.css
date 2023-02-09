@@ -167,7 +167,7 @@ img {
 }
 
 .navbar-custom .avatar-container {
-  position: absolute;
+  position: relative;
   left: 50%;
   width: 50px;
   margin-top: -25px;
