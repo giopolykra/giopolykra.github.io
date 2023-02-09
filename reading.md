@@ -22,6 +22,18 @@ What Once Was Considered  A Real Education ...
      </a>
       <a title="Πατέρες και γιοι" rel="nofollow" href="https://www.goodreads.com/book/show/28241088"><img alt="Πατέρες και γιοι" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1648496155l/28241088._SX50_.jpg" />
     </a>
+      
+<a href="https://www.goodreads.com/book/show/29892215" style="float: left; padding-right: 20px"><img border="0" alt="Ασκητική" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460421641l/29892215._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/29892215">Ασκητική</a> by <a href="https://www.goodreads.com/author/show/5668.Nikos_Kazantzakis">Nikos Kazantzakis</a>
+      
+      <a title="Ασκητική" rel="nofollow" href="https://www.goodreads.com/book/show/29892215"><img alt="Ασκητική" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460421641l/29892215._SX98_.jpg" /></a> 
+      
+      <a title="The Righteous Mind: Why Good People Are Divided by Politics and Religion" rel="nofollow" href="https://www.goodreads.com/book/show/11324722-the-righteous-mind"><img alt="The Righteous Mind: Why Good People Are Divided by Politics and Religion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534528902l/11324722._SX98_.jpg" /></a> 
+      
+      <a title="The Tyranny of Merit: What’s Become of the Common Good?" rel="nofollow" href="https://www.goodreads.com/book/show/50364458-the-tyranny-of-merit"><img alt="The Tyranny of Merit: What’s Become of the Common Good?" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594431563l/50364458._SX98_.jpg" /></a> 
+      
+      <a title="Justice: What's the Right Thing to Do?" rel="nofollow" href="https://www.goodreads.com/book/show/7999079-justice"><img alt="Justice: What's the Right Thing to Do?" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517906058l/7999079._SX98_.jpg" /></a>      
+      
+      <a title="Never Finished: Unshackle Your Mind and Win the War Within" rel="nofollow" href="https://www.goodreads.com/book/show/63079845-never-finished"><img alt="Never Finished: Unshackle Your Mind and Win the War Within" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666611105l/63079845._SX98_.jpg" /></a>      
       <a title="The Complete Essays" rel="nofollow" href="https://www.goodreads.com/book/show/30735.The_Complete_Essays"><img alt="The Complete Essays" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657542435l/30735._SY75_.jpg" /></a>
       <a title="The Denial of Death" rel="nofollow" href="https://www.goodreads.com/book/show/52393457-the-denial-of-death"><img alt="The Denial of Death" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584266014l/52393457._SY75_.jpg" /></a>
      <a title="Stoner" rel="nofollow" href="https://www.goodreads.com/book/show/166997.Stoner"><img alt="Stoner" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320600716l/166997._SY75_.jpg" />
