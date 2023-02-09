@@ -16,8 +16,6 @@ What Once Was Considered  A Real Education ...
       </a>
       <a title="Φίλοι" rel="nofollow" href="https://www.goodreads.com/book/show/36680239"><img alt="Φίλοι" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511900898l/36680239._SX50_.jpg" />
      </a>
-    </div>
-    <div>
       <a title="Τα εις εαυτόν" rel="nofollow" href="https://www.goodreads.com/book/show/16106598"><img alt="Τα εις εαυτόν" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600854971l/16106598._SX50_.jpg" />
       </a>
       <a title="One, No One and One Hundred Thousand" rel="nofollow" href="https://www.goodreads.com/book/show/12117.One_No_One_and_One_Hundred_Thousand"><img alt="One, No One and One Hundred Thousand" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388199785l/12117._SY75_.jpg" />
