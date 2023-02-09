@@ -31,7 +31,7 @@ What Once Was Considered  A Real Education ...
       <a title="The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman" rel="nofollow" href="https://www.goodreads.com/book/show/10260.The_Pleasure_of_Finding_Things_Out"><img alt="The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924005l/10260._SY75_.jpg" />
       </a>
   </div>
-    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/98951412-george-polykratis">George Polykratis's favorite books »
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/98951412-george-polykratis">George's favorite books »
   </a>
   <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with George, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
