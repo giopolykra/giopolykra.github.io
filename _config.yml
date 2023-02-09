@@ -36,7 +36,7 @@ description: A little bit of this, a little bit of that
 
 navbar-links:
   About Me: "aboutme"
-  CV:
+  Curriculum vitae:
     - Education: "education"
     - Skills: "skills"
   Reading: "reading"
