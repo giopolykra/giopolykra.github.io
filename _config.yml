@@ -41,8 +41,8 @@ navbar-links:
   Hobbies: "aboutme"
   Reading: "reading"
   Projects: 
-    - Deco Planner: 
-    - Quantum Tic-Tac-Toe: 
+    - Deco Planner: "https://www.youtube.com/watch?v=bgoYd58DNDQ"
+    # - Quantum Tic-Tac-Toe: 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
