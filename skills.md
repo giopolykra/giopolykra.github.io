@@ -4,4 +4,5 @@ title: Skills
 subtitle: What I am good at...
 ---
 
-Harmonica!!
+Problem solving. 
+Data analysis. 
