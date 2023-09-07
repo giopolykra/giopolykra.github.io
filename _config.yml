@@ -44,7 +44,7 @@ navbar-links:
     - Deco Planner: "https://www.youtube.com/watch?v=bgoYd58DNDQ"
     # - Quantum Tic-Tac-Toe: 
   #Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   Contact: "contactform"
   
