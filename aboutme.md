@@ -10,7 +10,7 @@ I love programming, reading books, cooking, playing the harmonica and learning n
 
 #### Running
 I enjoy this solitary meditative activity and I know I can always fall back to if I want to improve my mood. I am quite particular on how much I want to have run in a week and I will always find some time to do so. 
-Though not quite ready yet I want to run ultramarathons in the future.
+Though not quite ready yet (can you ever trully be ready?) I have already registered to run my first ultramarathon in 2024.
 
 #### Scuba diving
 I discovered scuba diving while in Cyprus and within a year as my ambitions and love for the sport grew, I begun diving with Global Underwater Explorers. 
