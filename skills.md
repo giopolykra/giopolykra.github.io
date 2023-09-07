@@ -4,5 +4,4 @@ title: Skills
 subtitle: What I am good at...
 ---
 
-Problem solving. 
-Data analysis. 
+I have advanced problem solving and data analysid skills with a strong background in computational sciences, theoretical physics, and quantum computing
