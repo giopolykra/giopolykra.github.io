@@ -14,22 +14,22 @@ Though not quite ready yet (can you ever trully be ready?) I have already regist
 
 #### Scuba diving
 I discovered scuba diving while in Cyprus and within a year as my ambitions and love for the sport grew, I begun diving with Global Underwater Explorers. 
-I plan to get the DPV certification this October and  participate in a ghost-net retrieval project in November with the Ghost Diving team. I also plan to slowly transition into technical diving in the future with the end goal to join some exploration projects (caves and wrecks) around the globe.
-
-#### Skydiving
-I got my A-licence in Bovec Slovenia on July 2023 and I am hooked on the sport. There are so many disciplines in which I see me progressing in the future and I simply cannot wait.
+I got my Doubles, Drysuit and DPV certification and  participated in a ghost-net retrieval projects with the Ghost Diving team. 
+I just completed the GUE Cave diver 1 course in Sardinia with Andrea Marassich and I plan to return for more cave dives and project participationthis summer.
 
 #### Freediving
 I am also passionate about freediving and in the process of getting my AIDA 3 certification, but due to recent setbacks I had with surgeries this dicipline will have to wait maybe a few months. As an alternative I really got into Static Apnea training which I try to do regularly durin the week as an alternative to meditation. Beeing able to reduce the heart rate and eliminate stress is very important in todays frantic society.
 
+#### Skydiving
+I got my A-licence in Bovec Slovenia on July 2023 and I am hooked on the sport. The plan is to get my B license soon and hopefully own my own skydiving rig in the near future.
+There are so many disciplines in which I see me progressing in the future and I simply cannot wait.
+
+#### Paragliding
+The cheapest way to get your feet of the gound. I tried tantem speedflying in the past and I fell in love with the sport. I just completed an APPI  paragliding course and have about 10h of airtime. The goal is to progress to thermal flying and reach cloud base by 2025. I plan to build some good foundations on canopy handling before I move on to speed wings later on.
+
 #### Sailing
 I started the ISSA Offshore Skipper course with the sole intention of fighting my sea sickness.
 (For the record: the seasickness didnt go away)
-
-## Hobbies I have tried and want to do more regularly
-
-#### Fencing
-I was a bit prejudiced about this, because I preffer no but after I tried 
 
 ## Things I Want to Do in the Future
 
@@ -41,9 +41,6 @@ The silent, bubble free way of diving. Currently I am only admiring the KISS-sid
 
 #### Caving
 Natural way to expand your skill arsenal if you want to do cave diving. Not only the sunken part of the caves are fun, dry cave sare as beautifull and worth exploring. I want to have the training for the SRT techniques involved. 
-
-#### Paragliding
-The cheapest way to get your feet of the gound. This sport has aged much better than hang gliding especially since the invention of the speed flying with miniwings. I definitely want to start this sport. I tried tantem speedflying in the past and I fell in love with the sport. I plan to take some paragliding lessons and build some good foundations on canopy handling before I start with speed wings though.
 
 #### Airplane Pilot licence
 Ever since I had some demo flights when I was 16 I am thinking of the time when I will be able to fly a plane on my own. Getting the  LAPL and then the PPL licence is on the to-do list!
