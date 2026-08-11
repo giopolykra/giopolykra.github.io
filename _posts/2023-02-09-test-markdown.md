@@ -1,10 +1,8 @@
 ---
 layout: post
 title: On Traveling
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+subtitle: What Socrates and a trip to Slovenia taught me about it
+tags: [travel, reflections]
 comments: true
 ---
 

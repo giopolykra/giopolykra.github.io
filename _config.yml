@@ -40,12 +40,10 @@ navbar-links:
     - Skills: "skills"
   Hobbies: "aboutme"
   Reading: "reading"
-  Projects: 
+  Projects:
+    - AI Diagnostic Assistant: "ai-diagnostic-assistant"
     - Deco Planner: "https://www.youtube.com/watch?v=bgoYd58DNDQ"
-    # - Quantum Tic-Tac-Toe: 
-  #Resources:
-   - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+    # - Quantum Tic-Tac-Toe:
   Contact: "contactform"
   
 ################
@@ -305,14 +303,10 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
-  - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
